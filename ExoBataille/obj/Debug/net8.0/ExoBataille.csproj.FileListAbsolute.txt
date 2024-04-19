@@ -1,0 +1,14 @@
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.exe
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.deps.json
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.runtimeconfig.json
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.dll
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.pdb
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.AssemblyInfoInputs.cache
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.AssemblyInfo.cs
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.csproj.CoreCompileInputs.cache
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.dll
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\refint\ExoBataille.dll
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.pdb
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.genruntimeconfig.cache
+E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ref\ExoBataille.dll
