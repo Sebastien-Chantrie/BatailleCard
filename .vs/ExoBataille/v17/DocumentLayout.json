@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\",
+  "WorkspaceRootPath": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|e:\\developpement project\\introcsharp\\exobataille\\exobataille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\ExoBataille\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Program.cs",
               "RelativeDocumentMoniker": "ExoBataille\\Program.cs",
-              "ToolTip": "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\ExoBataille\\Program.cs",
-              "RelativeToolTip": "ExoBataille\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ToolTip": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Program.cs*",
+              "RelativeToolTip": "ExoBataille\\Program.cs*",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T07:34:09.152Z",
               "EditorCaption": ""

@@ -12,3 +12,18 @@ E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\re
 E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.pdb
 E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.genruntimeconfig.cache
 E:\Developpement Project\IntroCsharp\ExoBataille\ExoBataille\obj\Debug\net8.0\ref\ExoBataille.dll
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.AssemblyInfoInputs.cache
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.AssemblyInfo.cs
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.csproj.CoreCompileInputs.cache
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.sourcelink.json
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.dll
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\refint\ExoBataille.dll
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.pdb
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.exe
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.deps.json
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.runtimeconfig.json
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.dll
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\bin\Debug\net8.0\ExoBataille.pdb
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ExoBataille.genruntimeconfig.cache
+C:\Users\Aldraah\source\repos\ExoBataille\ExoBataille\obj\Debug\net8.0\ref\ExoBataille.dll

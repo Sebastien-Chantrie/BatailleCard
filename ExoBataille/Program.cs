@@ -1,4 +1,5 @@
 ﻿using System;
+using static ExoBataille.Program;
 
 namespace ExoBataille
 {
@@ -35,14 +36,45 @@ namespace ExoBataille
             public Couleurs Couleur;
         }
 
+        public void PlayCard(List<Carte> cartesP1, List<Carte> cartesP2)
+        {   
+            Carte firstCardP1 = cartesP1[0];
+            Carte firstCardP2 = cartesP2[0];
+            cartesP1.RemoveAt(0);
+            cartesP2.RemoveAt(0);
+            
+            if (firstCardP1.Valeur > firstCardP2.Valeur)
+            {
+                cartesP1.Add(firstCardP1);
+                cartesP1.Add(firstCardP2);
+            }
+            else if (firstCardP1.Valeur < firstCardP2.Valeur)
+            {
+                cartesP2.Add(firstCardP2);
+                cartesP2.Add(firstCardP1);
+            }
+            else if (firstCardP1.Valeur == firstCardP2.Valeur)
+            {
+                Egality(cartesP1,cartesP2);
+            }
+        }
+
+        public void Egality(List<Carte> cartesP1, List<Carte> cartesP2)
+        {
+            Carte stockCardP1 = cartesP1[0];
+            Carte stockCardP2 = cartesP2[0];
+            cartesP1.RemoveAt(0);
+            cartesP2.RemoveAt(0);
+            PlayCard(cartesP1,cartesP2);
+        }
+
         static void Main(string[] args)
         {
             List<Carte> carteP1 = new List<Carte>();
             List<Carte> carteP2 = new List<Carte>();
-
-
             Carte[] tasCarte = new Carte[52];
             int compt = 0;
+
             // initialisation des cartes
             for (int i = 0; i < 4; i++)
             {
@@ -53,23 +85,20 @@ namespace ExoBataille
                     compt++;
                 }
             }
-            // Mélange des cartes
-            Random random = new Random();
-            int random1;
-            int random2;
+
+            // Mélange des cartes 
+            Random rand = new Random();
+            int random;
             Carte temp = new Carte();
-            for (int i = 0; i < 10000; i++)
+            for (int i = 0; i < tasCarte.Length; i++)
             {
-                random1 = random.Next(0, 50);
-                random2 = random.Next(0, 50);
-                temp = tasCarte[random1];
-                tasCarte[random1] = tasCarte[random2];
-                tasCarte[random2] = temp;
+                random = rand.Next(0, 51);
+                temp = tasCarte[i];
+                tasCarte[i] = tasCarte[random];
+                tasCarte[random] = temp;
             }
 
             // Distribution de cartes
-
-
             bool P1 = true;
             for (int i = 0; i < tasCarte.Length; i++)
             {
@@ -77,7 +106,6 @@ namespace ExoBataille
                 else { carteP2.Add(tasCarte[i]); }
                 P1 = !P1;
             }
-
 
             int compterror = 0;
             foreach (var carte in carteP1)
@@ -92,7 +120,17 @@ namespace ExoBataille
                 compterror++;
             }
 
+            // Duel de carte
 
+           
+            while (carteP1.Count != 0 || carteP2.Count != 0)
+            {            
+                
+
+
+                Console.WriteLine($"Player 1 nb carte :{carteP1.Count} Player 2 nb carte :{carteP2.Count} ");
+
+            }
 
         }
     }

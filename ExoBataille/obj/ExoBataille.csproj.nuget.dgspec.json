@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\ExoBataille\\ExoBataille.csproj": {}
+    "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\ExoBataille.csproj": {}
   },
   "projects": {
-    "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\ExoBataille\\ExoBataille.csproj": {
+    "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\ExoBataille.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\ExoBataille\\ExoBataille.csproj",
+        "projectUniqueName": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\ExoBataille.csproj",
         "projectName": "ExoBataille",
-        "projectPath": "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\ExoBataille\\ExoBataille.csproj",
+        "projectPath": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\ExoBataille.csproj",
         "packagesPath": "C:\\Users\\Aldraah\\.nuget\\packages\\",
-        "outputPath": "E:\\Developpement Project\\IntroCsharp\\ExoBataille\\ExoBataille\\obj\\",
+        "outputPath": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
