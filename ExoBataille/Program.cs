@@ -36,10 +36,10 @@ namespace ExoBataille
             public Couleurs Couleur;
         }
 
-        public void PlayCard(List<Carte> cartesP1, List<Carte> cartesP2)
+        public static int PlayCard(List<Carte> cartesP1, List<Carte> cartesP2)
         {   
-            Carte firstCardP1 = cartesP1[0];
-            Carte firstCardP2 = cartesP2[0];
+            Carte firstCardP1 = cartesP1.First();
+            Carte firstCardP2 = cartesP2.First();
             cartesP1.RemoveAt(0);
             cartesP2.RemoveAt(0);
             
@@ -47,26 +47,49 @@ namespace ExoBataille
             {
                 cartesP1.Add(firstCardP1);
                 cartesP1.Add(firstCardP2);
+                return 1;
             }
-            else if (firstCardP1.Valeur < firstCardP2.Valeur)
+            if (firstCardP1.Valeur < firstCardP2.Valeur)
             {
                 cartesP2.Add(firstCardP2);
                 cartesP2.Add(firstCardP1);
+                return 2;
             }
-            else if (firstCardP1.Valeur == firstCardP2.Valeur)
-            {
-                Egality(cartesP1,cartesP2);
-            }
-        }
+           
 
-        public void Egality(List<Carte> cartesP1, List<Carte> cartesP2)
-        {
+            if (cartesP1.Count < 2 && cartesP2.Count < 2)
+            {
+                return 0;
+            }
+
             Carte stockCardP1 = cartesP1[0];
             Carte stockCardP2 = cartesP2[0];
             cartesP1.RemoveAt(0);
             cartesP2.RemoveAt(0);
-            PlayCard(cartesP1,cartesP2);
+            int resultManche = PlayCard(cartesP1,cartesP2);
+
+
+            if (resultManche == 1) 
+            {   
+                cartesP1.Add(stockCardP1);
+                cartesP1.Add(stockCardP2);
+                cartesP1.Add(firstCardP1);
+                cartesP1.Add(firstCardP2);
+            }
+            else
+            {
+                cartesP2.Add(stockCardP1);
+                cartesP2.Add(stockCardP2);
+                cartesP2.Add(firstCardP2);
+                cartesP2.Add(firstCardP1);
+            }
+            return resultManche;
         }
+
+        //public int Egality(List<Carte> cartesP1, List<Carte> cartesP2)
+        //{
+           
+        //}
 
         static void Main(string[] args)
         {
@@ -121,17 +144,30 @@ namespace ExoBataille
             }
 
             // Duel de carte
-
+            int result = 5;
            
-            while (carteP1.Count != 0 || carteP2.Count != 0)
-            {            
-                
-
+            while (carteP1.Count > 0 && carteP2.Count > 0)
+            {
+                result = PlayCard(carteP1,carteP2);
+                if (result == 0)
+                {
+                    if (carteP1.Count > carteP2.Count)
+                    {
+                        result = 1;
+                        break;
+                    }
+                    result = 2;
+                    break;
+                }
 
                 Console.WriteLine($"Player 1 nb carte :{carteP1.Count} Player 2 nb carte :{carteP2.Count} ");
-
             }
-
+            if (result == 1) 
+            {
+                Console.WriteLine("Le joueurs 1 gagne la partie");
+                return;
+            }
+            Console.WriteLine("Le joueurs 2 gagne la partie");
         }
     }
 }

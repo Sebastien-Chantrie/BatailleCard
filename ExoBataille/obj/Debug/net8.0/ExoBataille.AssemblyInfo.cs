@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExoBataille")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1018ee0032d90b199fe84af19d218a336a0632d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c20b5bc0dce6205257f1a10941ac9e776c4ffa38")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExoBataille")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExoBataille")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
