@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\paquetcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\paquetcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\couleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\valeurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\exobataille.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\exobataille.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|c:\\users\\aldraah\\source\\repos\\exobataille\\exobataille\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F0D21E-5B19-4AA7-B32E-BDC32E220519}|ExoBataille\\ExoBataille.csproj|solutionrelative:exobataille\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,29 +46,16 @@
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Game.cs",
               "RelativeDocumentMoniker": "ExoBataille\\Game.cs",
-              "ToolTip": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Game.cs*",
-              "RelativeToolTip": "ExoBataille\\Game.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ToolTip": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Game.cs",
+              "RelativeToolTip": "ExoBataille\\Game.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T15:40:19.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExoBataille",
-              "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\ExoBataille.csproj",
-              "RelativeDocumentMoniker": "ExoBataille\\ExoBataille.csproj",
-              "ToolTip": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\ExoBataille.csproj",
-              "RelativeToolTip": "ExoBataille\\ExoBataille.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-20T15:29:16.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Couleur.cs",
               "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Couleur.cs",
               "RelativeDocumentMoniker": "ExoBataille\\Couleur.cs",
@@ -85,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Valeurs.cs",
               "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Valeurs.cs",
               "RelativeDocumentMoniker": "ExoBataille\\Valeurs.cs",
@@ -98,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Carte.cs",
               "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Carte.cs",
               "RelativeDocumentMoniker": "ExoBataille\\Carte.cs",
@@ -111,26 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PaquetCarte.cs",
               "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\PaquetCarte.cs",
               "RelativeDocumentMoniker": "ExoBataille\\PaquetCarte.cs",
               "ToolTip": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\PaquetCarte.cs",
               "RelativeToolTip": "ExoBataille\\PaquetCarte.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowD0AAAAeAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T15:23:21.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Program.cs",
               "RelativeDocumentMoniker": "ExoBataille\\Program.cs",
-              "ToolTip": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Program.cs*",
-              "RelativeToolTip": "ExoBataille\\Program.cs*",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEAAAAAMAAAA",
+              "ToolTip": "C:\\Users\\Aldraah\\source\\repos\\ExoBataille\\ExoBataille\\Program.cs",
+              "RelativeToolTip": "ExoBataille\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T07:34:09.152Z",
               "EditorCaption": ""
